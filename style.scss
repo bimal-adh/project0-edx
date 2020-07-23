@@ -1,0 +1,33 @@
+.navbar{
+    ul{
+        li{
+            display: inline;
+            font-size: 200%;
+        }
+    }
+}
+.navbar{
+    ul{
+        li{
+            .col{
+                span{
+                    color: brown;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}
+
+footer{
+    ul{
+        li{
+            .col{
+                span{
+                    font-size: 150%;
+                    color: #fcbf1e;
+                }
+            }
+        }
+    }
+}
